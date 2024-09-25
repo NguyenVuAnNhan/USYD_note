@@ -1,0 +1,5 @@
+- Concerned with all aspects of software production from the early stages of system specification through to maintaining it after it has gone into use
+- Not just programming
+- Theories, methods and tools for cost-effective software production
+- Technical process, project management and development of tools, methods to support software production
+- System engineering (hardware and software) - Software often dominates costs
