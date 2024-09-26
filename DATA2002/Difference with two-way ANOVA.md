@@ -1,0 +1,10 @@
+- Similar to when we were adjusting for blocks
+- However, it is very different
+- When adjusting for blocks:
+	- The full model is $E(Y_{ij}) = \mu + \alpha_i + \beta_j$ (i.e. treatments and blocks combine additively)
+	- The null hypothesis is that $E(Y_{ij}) = \mu + \beta_j$ (i.e. all treatment effects $\alpha_i$ are zero)
+	- The $\beta_j$'s are not treatment effects, they are block effects
+- In this scenario,
+	- The full model is $E(Y_{ijk}) = \mu_{ij}$ (unrestricted)
+	- The null hypothesis is $\mu_{ij} = \mu + \alpha_i + \gamma_j$ (factor A and B effects combine additively)
+	- both $\alpha_i$ and $\gamma_j$ are related to treatment effects

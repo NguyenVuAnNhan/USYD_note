@@ -1,0 +1,3 @@
+- The overall model is estimated by $\bar{y}_{\bullet \bullet}$
+- The adjustment for electrode type i $(\alpha_i)$ is $\bar{y}_{i \bullet} - \bar{y}_{\bullet \bullet}$
+- The adjustment for subject j $(\beta_j)$ is $\bar{y}_{\bullet j} - \bar{y}_{\bullet \bullet}$

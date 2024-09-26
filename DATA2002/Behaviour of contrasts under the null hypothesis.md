@@ -1,0 +1,4 @@
+- Under the ANOVA null hypothesis: $H_0: \mu_1 = ... = \mu_g$
+	- All population contrast are zero: $$\sum^{g}_{i=1}c_i\mu_i = \sum^{g}_{i=1}c_i\mu = \mu \sum^{g}_{i=1}c_i = 0$$
+	- all (random) sample contrasts have expectation zero: $$E(\sum^{g}_{i=1}c_i\bar{Y}_{i\bullet})=\sum^{g}_{i=1}c_i\mu_i=0$$
+	- Therefore the ANOVA null hypothesis can be rephrased as all population contrasts are zero

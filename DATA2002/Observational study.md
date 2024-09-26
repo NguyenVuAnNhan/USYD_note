@@ -1,0 +1,2 @@
+- Not every study can be controlled experiments
+- Can not establish causation, only correlation

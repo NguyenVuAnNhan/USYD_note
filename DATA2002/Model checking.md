@@ -1,0 +1,7 @@
+- It is important to check the assumptions underlying the "additive normal model"
+- The main things to check are the normality and constant variance assumptions
+- This is usually done by
+	- Checking that a box plot or normal Q-Q plot for residuals looks normal
+	- plotting residuals against fitted values to check the common variance assumption
+- Fitted values: $\hat{y}_{ij} = \hat{\mu} + \hat{\alpha}_i + \hat{\beta}_j$
+- Residuals: $r_{ij} = y_{ij} - \hat{y}_{ij}$

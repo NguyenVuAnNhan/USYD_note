@@ -1,0 +1,2 @@
+- Apart from the fact we have a different $\hat{\sigma}$, this is the same as the one-way ANOVA
+- Once we adjusted for blocks, we adjust the degrees of freedom and then proceed as in the one-way case.

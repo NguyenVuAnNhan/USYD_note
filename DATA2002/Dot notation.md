@@ -1,0 +1,2 @@
+- Replacing a subscript with a dot means adding over that subscript
+- replacing a subscript with a dot and writing a bar over the letter means averaging over that subscript

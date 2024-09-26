@@ -1,0 +1,2 @@
+- Instead of looking at Q-Q plots for each samples, we can consider the ANOVA residuals $$r_{ij} = y_{ij}-\bar{y}_{i\bullet}$$
+- They should be normally distributed if the ANOVA assumption holds true

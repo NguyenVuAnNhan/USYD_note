@@ -1,0 +1,6 @@
+- A two-way ANOVA with blocking can be thought of as a generalization of the paired t-test where each pair is a block
+- In the paired t-test, the idea is to remove variation between pairs to more accurately compare the two treatment levels within each pair
+	- The within pair difference is then averaged over all pairs to get the treatment effect
+- We are not interested in testing for a block effect, only in comparing treatment
+- We are nonetheless adjusting for blocks to more accurately compare treatments
+- Although the treatment sum of squares and block sums of squares are mathematically identical, they are playing very different scientific roles

@@ -1,0 +1,2 @@
+- For the full model the (i,j,k)-th residual is $y_{ijk} - \bar{y}_{ij\bullet}$ and the residual sum of squares is $$\sum^{a}_{i=1}\sum^{b}_{j=1}\sum^{n}_{k=1}(y_{ijk} - \bar{y}_{ij\bullet})^2$$
+- For the no interaction model the (i,j,k)-th residual is $y_{ijk} - \bar{y}_{i\bullet\bullet} - \bar{y}_{\bullet j \bullet} + \bar{y}_{\bullet\bullet\bullet}$ and the residual sum of squares is $$\sum^{a}_{i=1}\sum^{b}_{j=1}\sum^{n}_{k=1}(y_{ijk} - \bar{y}_{i\bullet\bullet} - \bar{y}_{\bullet j \bullet} + \bar{y}_{\bullet\bullet\bullet})^2$$

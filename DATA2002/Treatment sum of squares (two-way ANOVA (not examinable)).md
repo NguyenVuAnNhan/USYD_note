@@ -1,0 +1,2 @@
+The treatment sum of squares is $$\sum^g_{i=1}n(\bar{Y}_{i \bullet} - \bar{Y}_{\bullet \bullet})^2 = n \sum^g_{i=1}(\alpha_i + \bar{e}_{i \bullet} - \bar{e}_{\bullet \bullet})$$
+Under the null hypothesis $H_0: \alpha_1 = ... = \alpha_g = 0$, this is $$$$

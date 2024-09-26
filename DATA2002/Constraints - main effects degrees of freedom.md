@@ -1,0 +1,8 @@
+- Note that these effects satisfy certain constraints;
+- Both set of main effects add to zero $$\sum^{a}_{i=1}\alpha_i = \sum^{b}_{j=1}\gamma_j = 0$$
+- There are thus
+	- $a - 1$ free $\alpha_i$
+	- $b - 1$ free $\gamma_j$
+- That is to say there are
+	- $a - 1$ degrees of freedom for the factor A main effects
+	- $b - 1$ degrees of freedom for the factor B main effects

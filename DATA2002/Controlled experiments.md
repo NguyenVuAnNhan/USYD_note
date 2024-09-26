@@ -1,0 +1,4 @@
+- obtain representative sample
+- random allocation into treatment and control
+- given treatment and placebo
+- analyze responses

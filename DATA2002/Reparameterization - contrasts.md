@@ -1,0 +1,8 @@
+- Introduce new parameters
+- Define
+	- $\mu = \bar{\mu}_{\bullet \bullet}$ ("overall mean")
+	- $\alpha_i = \bar{\mu}_{i \bullet} - \bar{\mu}_{\bullet \bullet}$ ("main effect due to i-th level of factor A")
+	-  $\gamma_i = \bar{\mu}_{\bullet j} - \bar{\mu}_{\bullet \bullet}$ ("main effect due to j-th level of factor B")
+	- And the interaction effect between level i of factor A and level j of factor B $$(\alpha\gamma)_{ij} = \mu_{ij} - \bar{\mu}_{i\bullet}- \bar{\mu}_{\bullet j} + \bar{\mu}_{\bullet \bullet}$$
+	- Then we may write $$\mu_{ij} = \mu + \alpha_i + \gamma_j + (\alpha\gamma)_{ij}$$
+	- The $\alpha_i, \gamma_j \text{ and } (\alpha\gamma)_{ij}$ are all contrast in the $\mu_{ij}$

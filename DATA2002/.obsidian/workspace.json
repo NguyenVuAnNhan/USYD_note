@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "0201712afa3075ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "21db4bbf47f4e6c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab09453d4afbf30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a48b49cec5b6858",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4b266c87a36d7cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abfd1c0ca5189609",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5645266805b58d61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a1863fb098b7921",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "70c5331cbc15d4ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "0003b980e23f71e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c93a2c850f2aa33c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General tables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6a403bbfefc62dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General tables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e81c2a58e2700002",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28eb62a69dde2b16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General tables.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fab09453d4afbf30",
+  "lastOpenFiles": [
+    "Pasted image 20240925081419.png",
+    "Testing for independence.md",
+    "General tables.md",
+    "Test statistic for test of independence.md",
+    "Independence.md",
+    "Pasted image 20240925074630.png",
+    "Table of proportions.md",
+    "Pasted image 20240925074243.png",
+    "Tests for independence.md",
+    "Pasted image 20240925072425.png",
+    "Week 3 - Testing for independence.md",
+    "Testing for homogeneity.md",
+    "Degrees of freedom - testing for homogeneity.md",
+    "Pasted image 20240925071738.png",
+    "Test of homogeneity.md",
+    "Pasted image 20240925071005.png",
+    "Module 1 - Categorical data.md",
+    "Content.md",
+    "General two-way contingency table.md",
+    "Pasted image 20240925064100.png",
+    "Two-way contingency table.md",
+    "Notation for contingency table.md",
+    "Pasted image 20240925063732.png",
+    "Pasted image 20240925062845.png",
+    "Pasted image 20240925062746.png",
+    "Module 2 - Comparing means.md",
+    "Week 5 - Sign test.md",
+    "Week 2 -  Goodness of fit tests.md",
+    "Week 1 - Collecting data.md",
+    "Module 3 - Multiple factors comparison.md",
+    "Assessing significance.md",
+    "Post hoc tests for two-way ANOVA with interactions.md",
+    "Multi-factor ANOVA.md",
+    "F-test for no interaction.md",
+    "Fitted values and residuals.md",
+    "Pasted image 20240924015305.png"
+  ]
+}

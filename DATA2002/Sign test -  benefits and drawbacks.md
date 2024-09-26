@@ -1,0 +1,5 @@
+- Ignores a lot of information but can be applied in quite general situations
+- Does not depend on the distribution of the data, hence non-parametric
+- When normality assumption is satisfied, the t-test is more powerful (reject $H_0$ when need to)
+- Sign test can be used to test if a single sample is taken from a continuous distribution symmetric about the population mean $\mu$
+- Sign test is more robust, not affected by outliers

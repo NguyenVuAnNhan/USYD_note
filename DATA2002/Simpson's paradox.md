@@ -1,0 +1,2 @@
+- trends reversed when data is grouped together
+- due to confounding variables
