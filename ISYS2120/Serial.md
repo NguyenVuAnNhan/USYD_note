@@ -1,0 +1,1 @@
+Treated as an `integer` value in most circumstances, especially useful for creating tables and inserting new data

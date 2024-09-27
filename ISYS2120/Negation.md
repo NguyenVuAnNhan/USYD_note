@@ -1,0 +1,3 @@
+Inequality:
+- <> or !=
+- NOT operator

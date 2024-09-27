@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "a0d2884b3f06e6e8",
+    "id": "e00b4cb78bcb9c48",
     "type": "split",
     "children": [
       {
-        "id": "5277e88a7059d265",
+        "id": "a67b32b98e073a22",
         "type": "tabs",
         "children": [
           {
-            "id": "8e9429b018afb9fc",
+            "id": "1d50b8c57c68e6f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting minutes.md",
+                "file": "Join.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2efeb0d48b5e526f",
+    "id": "8925370a9ccfdfae",
     "type": "split",
     "children": [
       {
-        "id": "ac85acda75c19b3e",
+        "id": "e65a1d9e32c582b0",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d11d56b43708c0",
+            "id": "6b441817c7dcea04",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "6ced795ccadd7fff",
+            "id": "8ca4fbb6a276be67",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "85291e0b228cb482",
+            "id": "f4e305784e2b331d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 200
   },
   "right": {
-    "id": "c7922ebcbca5e3e2",
+    "id": "cd90ac2c8e80e070",
     "type": "split",
     "children": [
       {
-        "id": "ecd977320cca395d",
+        "id": "33a85124f446fbfb",
         "type": "tabs",
         "children": [
           {
-            "id": "b6dcf6d0f9902f8d",
+            "id": "633dcf82330680d6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting minutes.md",
+                "file": "Join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "a4766cbcb6472318",
+            "id": "0f9bc2aecf2cda57",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting minutes.md",
+                "file": "Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4b6071ea2b58218c",
+            "id": "ca4f84dbbce1ebee",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "329a5410ee47c086",
+            "id": "761a1e0727dde8d4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting minutes.md"
+                "file": "Join.md"
               }
             }
           }
@@ -146,12 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e9429b018afb9fc",
+  "active": "1d50b8c57c68e6f0",
   "lastOpenFiles": [
-    "Product backlog.md",
-    "Meeting minutes.md",
-    "Content.md",
-    "Difference between SW Dev and SW Eng.md",
-    "Week 1 - Software Engineering.md"
+    "SQL.md",
+    "Handling NULL values and Views.md",
+    "Views.md",
+    "NULL handling.md",
+    "Ordering, Distinct and Pattern Matching.md",
+    "Pattern matching.md",
+    "Unique results.md",
+    "Ordering results.md",
+    "Range queries and Logical Connectives.md",
+    "Negation.md",
+    "Logical Conjunctions and Disjunctions.md",
+    "Range queries.md",
+    "Data Definition Language.md",
+    "DROP TABLE.md",
+    "Consistency Constraints.md",
+    "Foreign Key Constraints.md",
+    "CREATE TABLE.md",
+    "Data Manipulation Language.md",
+    "UPDATE.md",
+    "DELETE.md",
+    "INSERT.md",
+    "Introduction.md",
+    "Dates and times.md",
+    "Working with date and time.md",
+    "Date and time types.md",
+    "Limiting and ranking.md",
+    "Pasted image 20240927003829.png",
+    "Pasted image 20240927003243.png"
   ]
 }

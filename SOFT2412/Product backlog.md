@@ -4,7 +4,7 @@
 		- [ ] Phone number
 		- [ ] Email address
 		- [ ] Full name
-		- [ ] Customizable ID keys
+		- [ ] Customizable ID keys (UUID?)
 	- [ ] Locked behind a username and password
 	- [ ] No same ID
 
@@ -24,7 +24,7 @@
 	- [ ] Type
 	- [ ] Name
 
-- [ ] Password encrypted by any hashing algorithm
+- [ ] Password encrypted by any hashing algorithm (SHA-256?)
 
 ## Digital Scroll Management
 - [ ] Adding new digital scroll
@@ -33,6 +33,7 @@
 
 - [ ] Edit and update digital scrolls
 	- [ ] Modifications to scrolls the user uploaded, not to other scrolls
+	- [ ] Reupload a different file to replace that scroll
 
 - [ ]  Remove digital scrolls:
 	- [ ] Remove their own scroll
@@ -41,6 +42,8 @@
 - [ ] View scrolls
 
 - [ ] Download scrolls
+	- [ ] Set up a temp folder
+	- [ ] Ask for a path to copy the file to
 
 - [ ] Search filters
 	- [ ] uploader ID
@@ -49,5 +52,6 @@
 	- [ ] Upload date
 
 - [ ] Preview scrolls
+	- [ ] Display metadata
 
 ## The Evolution of Literature

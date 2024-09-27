@@ -1,0 +1,1 @@
+Existing tables can be removed from a schema with the DROP TABLE command
