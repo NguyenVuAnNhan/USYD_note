@@ -1,0 +1,6 @@
+- When the market price is above the equilibrium price, the quantity supplied exceeds the quantity demanded
+- This difference is called excess supply
+- Sellers can't find buyers for all units supplied to the market
+- Downward pressure on prices
+	- Bring in more consumers by lowering prices
+- Continue until the excess of supply is eliminated, moving the market toward equilibrium

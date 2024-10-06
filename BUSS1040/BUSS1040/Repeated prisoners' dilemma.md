@@ -1,0 +1,5 @@
+- The prisoners' dilemma but played multiple times
+- Tit-for-tat
+	- Cooperate as long as your rival cooperate, punish once per cheating
+- Trigger
+	- Cooperate as long as your rival cooperate, punish forever since cheating

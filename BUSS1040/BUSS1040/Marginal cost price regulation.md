@@ -1,0 +1,6 @@
+- Government set the price at P = MC
+- DWL = 0
+- Result: monopolist makes a loss equal to the gray area (the fixed cost) and will exit the market if possible
+- Prevention: subsidize the monopolist
+	- Also have DWL
+	- Politically unpopular

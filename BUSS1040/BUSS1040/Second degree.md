@@ -1,0 +1,5 @@
+- Offers a menu of pricing options to consumers and allows consumers to choose which one they want
+- Monopolist cannot distinguish between groups
+- Monopolist knows demand curve of different groups
+- Need to design prices so as to induce more inelastic groups to pay higher prices
+- No need to worry about arbitrage

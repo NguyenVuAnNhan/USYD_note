@@ -1,0 +1,2 @@
+- Other things equal
+- Keep every other variables equal to compare

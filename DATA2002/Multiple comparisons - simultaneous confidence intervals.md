@@ -11,6 +11,6 @@ Individual 95% confidence interval: $\bar{y}_{i\bullet} - \bar{y}_{h\bullet}$ ha
 	- Scheffe's method: We choose the special multiplier $$t_{Sch}^*(\alpha)=\sqrt{(g-1)F_{g-1,N-g}(\alpha)}$$
 	- And construct confidence intervals for all contrasts according to $$\sum^{g}_{i=1}c_i\bar{Y}_{i\bullet} \pm t_{Sch}^*(\alpha)\hat{\sigma}\sqrt{\sum^g_{i-1}\frac{c_i^2}{n_i}}$$
 - Then the probability that all sample contrasts include their true population values is exactly $1 - \alpha$
-- We are comparing each contrast t-statistic to the $\sqrt{*(g-1)F}$
+- We are comparing each contrast t-statistic to the $\sqrt{(g-1)F}$
 - Any which exceeds that critical value is significant in this "simultaneous" sense
 - The smallest such p-value is exactly the ANOVA F-test p-value

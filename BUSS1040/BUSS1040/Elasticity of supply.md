@@ -1,0 +1,9 @@
+- Elasticity can also be applied to supply
+- Elasticity of supply measures how sensitive the quantity supplied of a good is to changes in price
+- Midpoint method $$E_s = \frac{\Delta q/q_s^m}{\Delta P / P^m} = \frac{\Delta q}{\Delta P}.\frac{P^m}{q_s^m}$$
+- Point method $$E_s = \frac{\Delta q/q_s}{\Delta P / P} = \frac{dq_s}{dP}.\frac{P}{q_s}$$
+- E = 0, perfectly inelastic: any changes in price result in no changes in quantity supplied
+- 0 < E < 1, inelastic: changes in price results in less than proportional change in quantity supplied
+- E = 1, unit elastic
+- E > 1, elastic
+- E = infinity, perfectly elastic

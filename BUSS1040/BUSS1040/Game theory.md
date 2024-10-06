@@ -1,0 +1,7 @@
+- Components of a game:
+	- Players: how many? Does nature/chance play a role?
+	- Action: available choices
+	- Strategies: contingent plans of action
+	- Rules: describe how the game works
+	- Information: what do players know when making decisions
+	- Payoffs: consequences for each outcomes

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "d84d26793551f705",
+    "type": "split",
+    "children": [
+      {
+        "id": "45527404c3fd3b21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae39fe19ffbb2efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second degree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6a2e345af771de7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a62239bebb7bbede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a40c08c8c988e5e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6037094ea197c41c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3ccf1b4d428ff12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 442.5
+  },
+  "right": {
+    "id": "b2499977545706e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8539427207bbedcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57baee20a03aebfe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Second degree.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33ca2b90ae45eec6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Second degree.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9df8bd63cb8463a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff4f79d3188308f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Second degree.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ae39fe19ffbb2efe",
+  "lastOpenFiles": [
+    "Price discrimination.md",
+    "Week 7 - Monopoly 2.md",
+    "Content.md",
+    "Week 6 - Monopoly.md",
+    "Public policy toward monopolies.md",
+    "Price regulation.md",
+    "Average cost price regulation.md",
+    "Marginal cost price regulation.md",
+    "Week 5 - Perfect competition.md",
+    "Supply in long run.md",
+    "two-part tariff.md",
+    "First degree.md",
+    "Monopolistic competition.md",
+    "Monopolistic competition - long run.md",
+    "Comparison of models.md",
+    "Monopolistic competition - Efficiency.md",
+    "Excess capacity.md",
+    "Monopolistic competition - short run.md",
+    "Third degree.md",
+    "Second degree.md",
+    "Comparing between competitive and monopoly.md",
+    "Welfare with a monopoly.md",
+    "Single price monopolist.md",
+    "Monopolist and profit maximization.md",
+    "Monopolist and marginal revenue.md",
+    "Monopoly pricing strategy.md",
+    "Pasted image 20240923053058.png",
+    "Pasted image 20240923052430.png",
+    "Pasted image 20240923045829.png",
+    "Pasted image 20240923045104.png",
+    "Pasted image 20240923043755.png",
+    "Pasted image 20240923042632.png",
+    "Downward sloping demand curve for monopoly.png",
+    "Untitled.canvas",
+    "Pasted image 20240921035033.png",
+    "Pasted image 20240921033026.png",
+    "Pasted image 20240921032610.png"
+  ]
+}

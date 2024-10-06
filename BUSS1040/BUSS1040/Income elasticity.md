@@ -1,0 +1,8 @@
+- Measures how sensitive the demand for a good is to changes in income
+- Midpoint method $$E = \frac{dQ}{dI}.\frac{I^m}{Q^m}$$
+- Point method $$E = \frac{dQ}{dI}.\frac{I}{Q}$$
+- Inferior and neutral goods:
+	- If E < 0, demand decreases when income increases -> inferior goods
+	- If E = 0, demand doesn't change when income increases -> neutral goods
+	- If 0 < E < 1, demand changes less than proportionally when income increases, normal goods
+	- If E > 1, demand increases when income increases -> luxury goods

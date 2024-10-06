@@ -1,0 +1,5 @@
+- The outcome in a competitive market is Pareto efficient
+	- For all trades up to the equilibrium point, $MB \ge MC$ 
+	- Hence, the consumer is willing to pay more
+	- Trading all units up to Q* increases total surplus (increases CS, PS or both)
+- At the competitive-market equilibrium, all the potential gains from trade are exhausted

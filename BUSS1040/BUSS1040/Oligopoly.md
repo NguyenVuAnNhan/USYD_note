@@ -1,0 +1,9 @@
+- An industry:
+	- A small number of firms compete
+	- Firms may produce identical or differentiated products
+	- Firms have some market power
+	- There are barriers to entry
+		- Scale economies
+		- Entry or exit costs
+		- Patents
+		- Strong brands

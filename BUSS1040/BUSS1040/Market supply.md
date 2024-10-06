@@ -1,0 +1,6 @@
+- Quantity supplied in a market at different market prices, holding all else constant
+- Graphically, the horizontal summation of individual supply curves
+- ![[Pasted image 20240920231150.png]]
+- [[The law of supply]] holds for the market supply curve
+- Change in the quantity supplied refer to movements **along** the market supply curve
+- Change in supply refers to the shift of the supply curve

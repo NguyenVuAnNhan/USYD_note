@@ -1,0 +1,3 @@
+- Use the consumer's marginal benefit to derive his individual demand curve
+- The demand curve is the quantity of good or service one is willing and able to buy at a certain market price
+	- Traces out all combinations of market price and demand, holding all else constant

@@ -1,0 +1,5 @@
+[[Market equilibrium]]
+[[Welfare]]
+[[Pareto efficiency]]
+[[Competitive market outcome]]
+[[Elasticity]]

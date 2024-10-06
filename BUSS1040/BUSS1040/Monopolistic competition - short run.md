@@ -1,0 +1,4 @@
+- Firms behave like monopolists
+	- Produce where MR = MC
+	- Earn short run economic profit
+	- Produces less than capacity

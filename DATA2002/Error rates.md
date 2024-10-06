@@ -17,7 +17,7 @@ $$\alpha^*=\frac{a}{m}$$
 False discovery rate (FDR):
 $$FDR = E(\frac{V}{R})$$
 
-Benjamini - Hochberg procedure:
+Benjamini - Hochberg procedure:th
 - Do $m$ tests, control FDR at level $\alpha$
 - Calculate p-values normally
 - Order the p-values from smallest to largest $p_{(1)} \le p_{(2)} \le ... \le p_{(m)}$

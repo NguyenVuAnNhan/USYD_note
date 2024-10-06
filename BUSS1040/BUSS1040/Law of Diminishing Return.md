@@ -1,0 +1,2 @@
+- MPL cuts through APL at the maximum point of APL (when MPL is higher than APL, APL is increasing, otherwise it is decreasing. When MPL = APL, no change happens)
+- There comes a point where when we employ more labor, output will still increase but at a lower rate

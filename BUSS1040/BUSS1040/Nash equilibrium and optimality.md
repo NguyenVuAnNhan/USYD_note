@@ -1,0 +1,2 @@
+- Nash equilibrium may not be Pareto optimal
+- The prisoner's dilemma illustrates why it is difficult to cooperate even if it is in the best interest of both parties

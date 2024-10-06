@@ -1,0 +1,4 @@
+- Rationality
+- Common knowledge
+- Payments need to represent utility
+- Perfect information

@@ -1,0 +1,1 @@
+- There is a payoff from cutting some options - payoff from making a credible commitment

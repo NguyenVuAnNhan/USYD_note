@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General tables.md",
+                "file": "Multi-factor ANOVA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General tables.md",
+                "file": "Multi-factor ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General tables.md",
+                "file": "Multi-factor ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General tables.md"
+                "file": "Multi-factor ANOVA.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "fab09453d4afbf30",
   "lastOpenFiles": [
-    "Pasted image 20240925081419.png",
-    "Testing for independence.md",
-    "General tables.md",
-    "Test statistic for test of independence.md",
-    "Independence.md",
-    "Pasted image 20240925074630.png",
-    "Table of proportions.md",
-    "Pasted image 20240925074243.png",
-    "Tests for independence.md",
-    "Pasted image 20240925072425.png",
-    "Week 3 - Testing for independence.md",
-    "Testing for homogeneity.md",
-    "Degrees of freedom - testing for homogeneity.md",
-    "Pasted image 20240925071738.png",
-    "Test of homogeneity.md",
-    "Pasted image 20240925071005.png",
-    "Module 1 - Categorical data.md",
-    "Content.md",
-    "General two-way contingency table.md",
-    "Pasted image 20240925064100.png",
-    "Two-way contingency table.md",
-    "Notation for contingency table.md",
-    "Pasted image 20240925063732.png",
-    "Pasted image 20240925062845.png",
-    "Pasted image 20240925062746.png",
-    "Module 2 - Comparing means.md",
-    "Week 5 - Sign test.md",
-    "Week 2 -  Goodness of fit tests.md",
-    "Week 1 - Collecting data.md",
-    "Module 3 - Multiple factors comparison.md",
-    "Assessing significance.md",
-    "Post hoc tests for two-way ANOVA with interactions.md",
+    "Main effect - Interpretation.md",
+    "Interaction effects.md",
     "Multi-factor ANOVA.md",
-    "F-test for no interaction.md",
-    "Fitted values and residuals.md",
-    "Pasted image 20240924015305.png"
+    "Reparameterization - contrasts.md",
+    "Difference with two-way ANOVA.md",
+    "Questions for ANOVA.md",
+    "General setup.md",
+    "Two-way ANOVA with interactions.md",
+    "Week 9.md",
+    "Module 3 - Multiple factors comparison.md",
+    "Week 8.md",
+    "Two-way ANOVA.md",
+    "Adjusting for blocks using ranks.md",
+    "Using ranks.md",
+    "Model checking.md",
+    "Post hoc tests and multiple comparisons methods.md",
+    "Summary (two-way ANOVA).md",
+    "Multiple comparisons - simultaneous confidence intervals.md",
+    "The Bonferroni test.md",
+    "Adjusting for multiplicity.md",
+    "Individual t-test and confidence interval.md",
+    "Pairwise comparison.md",
+    "Two-way ANOVA F-ratio.md",
+    "Behaviors of sums of squares under the two-way ANOVA model.md",
+    "Treatment sum of squares (two-way ANOVA (not examinable)).md",
+    "Residual sum of squares (two-way ANOVA, not examinable).md",
+    "Pasted image 20240930113443.png",
+    "Pasted image 20240930102113.png",
+    "Pasted image 20240929101256.png",
+    "Pasted image 20240929093602.png",
+    "Pasted image 20240929090155.png",
+    "Pasted image 20240929084849.png",
+    "Pasted image 20240925081419.png",
+    "Pasted image 20240925074630.png",
+    "Pasted image 20240925074243.png",
+    "Pasted image 20240925072425.png"
   ]
 }

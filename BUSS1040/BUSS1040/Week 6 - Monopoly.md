@@ -1,0 +1,11 @@
+[[Summary for monopoly]]
+
+[[Characteristics of a monopoly]]
+[[Reasons for monopoly]]
+[[Natural monopoly]]
+[[Market power]]
+[[Monopoly pricing strategy]]
+[[Single price monopolist]]
+[[Welfare with a monopoly]]
+[[Comparing between competitive and monopoly]]
+[[Public policy toward monopolies]]

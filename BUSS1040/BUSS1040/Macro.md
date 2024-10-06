@@ -1,0 +1,2 @@
+- Deals with the economy as a whole, including both the financial and the real sides.
+- Focus on: the overall price level, aggregate output, aggregate employment and unemployment, interest rates and exchange rates

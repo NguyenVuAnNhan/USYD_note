@@ -27,6 +27,14 @@
 - [ ] Password encrypted by any hashing algorithm (SHA-256?)
 
 ## Digital Scroll Management
+
+- [ ] Set up a database system using MySQL
+	- [ ] Name
+	- [ ] Id
+	- [ ] Path to file
+	- [ ] Uploader ID
+	- [ ] Upload date
+
 - [ ] Adding new digital scroll
 	- [ ] Have their own name, id
 	- [ ] Asked to upload its binary file

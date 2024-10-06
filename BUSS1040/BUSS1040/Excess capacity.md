@@ -1,0 +1,4 @@
+- In the LR, in a perfectly competitive industry, firms produce at the minimum of average cost
+	- Minimum efficient scale
+- In a monopolistic competitive industry, costs exceed minimum average cost
+	- Less than minimum efficient scale

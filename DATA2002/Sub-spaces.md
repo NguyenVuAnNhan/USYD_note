@@ -1,0 +1,3 @@
+- Data will often be confined to a region of the space having lower intrinsic dimensionality
+- The data lives in a low-dimensional subspace
+- The goal is to reduce the dimensionality to the subspace containing the data

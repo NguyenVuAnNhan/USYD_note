@@ -1,0 +1,2 @@
+- Markets are affected by factors beyond the control of sellers and buyers
+- We may want to analyze this

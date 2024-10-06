@@ -1,0 +1,6 @@
+- Because there are only a small number of firms, firms recognize that:
+	- Actions of rival firms can have large impact on profits
+	- Firm's own actions can influence the profits and actions of rivals
+	- Quantity sold by each firm depends on the prices and quantities chosen by rivals
+	- Firms have an incentive to act strategically to influence the actions of competitors
+- [[Game theory]] as a tool to analyze the strategic interaction of agents

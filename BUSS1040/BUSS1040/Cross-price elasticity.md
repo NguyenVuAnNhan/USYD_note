@@ -1,0 +1,6 @@
+- Cross-price elasticity measures the sensitivity of the demand for a good A to changes in the price of a good B
+- Point method: $$E_{AB} = \frac{\Delta Q_A / Q_A}{\Delta P_B / P_B} = \frac{dQ_A}{dP_B}.\frac{P_B}{Q_A}$$
+- Arc method: $$E_{AB} = \frac{dQ_A}{dP_B}.\frac{P_B^m}{Q_A^m}$$
+- If E < 0, they are complement goods (price of B increases leads to less purchase of A)
+- If E > 0, they are substitutes (price of B increases leads to more purchase of A)
+- If E = 0, they are independent goods

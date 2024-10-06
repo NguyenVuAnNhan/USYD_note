@@ -1,0 +1,7 @@
+- AFC declines as Q increases (split into more pieces)
+- AVC declines initially, reaches a minimum and then increases again (due to LDR - the law of diminishing returns)
+- MC sharply declines, reaches a minimum and then rises sharply (LDR again)
+- MC curve cuts both the AVC and ATC curves at their minimum point
+	- when MC > ATC: ATC increases
+	- when MC < ATC: ATC decreases
+	- when MC = ATC: ATC is at its minimum

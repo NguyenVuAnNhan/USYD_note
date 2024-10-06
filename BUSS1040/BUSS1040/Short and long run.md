@@ -1,0 +1,3 @@
+- Firm goal is to maximize profit
+- Short run: at least one factor of production is fixed
+- Long run: all input factors are variable

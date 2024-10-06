@@ -1,0 +1,2 @@
+- Total benefit is the total benefit
+- Marginal benefit is the benefit got from consuming an extra product

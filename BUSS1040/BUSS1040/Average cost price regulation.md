@@ -1,0 +1,3 @@
+- Government set P = ATC
+- Still produce less than efficient quantity (not till MB = MC) so there is **still some DWL**
+- **Decrease DWL** compared to no regulation at all

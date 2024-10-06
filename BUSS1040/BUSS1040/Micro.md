@@ -1,0 +1,2 @@
+- Deals with households, firms, industries and markets
+- Focuses on relative prices and allocation of output, employment

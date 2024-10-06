@@ -1,0 +1,2 @@
+- A firm is an organization that employs factors of production to produce or provide goods and service
+- q = AF(K, L)

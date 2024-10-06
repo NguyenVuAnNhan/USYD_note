@@ -1,0 +1,5 @@
+- When the market price is below the equilibrium price, there is excess demand
+	- Quantity demanded exceeds supplied
+	- Sellers do not supply enough units to meet consumer demand
+	- There will be upward pressure on prices
+	- Continue until the excess demand is eliminated

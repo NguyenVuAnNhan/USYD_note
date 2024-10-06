@@ -1,0 +1,1 @@
+- The negative relationship between price and quantity demanded is known as the law of demand
